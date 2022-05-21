@@ -64249,10 +64249,10 @@ return new A.A4(new A.bv(null,t.am),new A.nd(B.cp,s),new A.nd(B.cp,s),new A.nd(B
 A.A4.prototype={
 LY(a){if(a.dS(0,B.ux.gfF(B.ux)))return B.w
 return B.w},
-J(a,b){var s,r=this,q=null,p=!(b.N(t.w).f.a.a<650)?420:r.a.d.a*0.7,o=A.h0(30),n=A.Eo("assets/images/icon-pepper.png",q,q),m=r.a.c,l=m?"Name":"Company"
+J(a,b){var s,r=this,q=null,p=!(b.N(t.w).f.a.a<650)?420:r.a.d.a*0.85,o=A.h0(30),n=A.Eo("assets/images/icon-pepper.png",q,q),m=r.a.c,l=m?"Name":"Company"
 m=m?"Enter your name":"Enter your company name"
 s=t.p
-l=A.da(A.b([n,B.Hx,A.RY(r.f,m,l,1,B.kG,new A.a7O()),A.RY(r.w,"Enter your phone number","Phone",1,B.IA,new A.a7P()),A.RY(r.r,"Enter your email","E-mail",1,B.kG,new A.a7Q()),A.RY(r.x,"Enter your message text","Your message",3,B.kG,new A.a7R()),A.bu(B.O,A.dq(A.b([A.arg(B.Ap),A.ahL(A.bJ("Add your file",q,q,q,A.aY(q,q,B.l,q,q,q,q,q,q,q,q,16,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.a2,q),new A.a7S(),q)],s),B.x,B.K,B.t),q,q,q,q,B.zZ,q,q),A.ar9(q,new A.a7T(r,b),!0,q,q,q,q,new A.a7U(r),t.y),new A.fc(B.vs,q,q,A.ahL(B.M5,new A.a7V(r,b),q),q)],s),B.x,B.K,B.t)
+l=A.da(A.b([n,B.Hx,A.RY(r.f,m,l,1,B.kG,new A.a7O()),A.RY(r.w,"Enter your phone number","Phone",1,B.IA,new A.a7P()),A.RY(r.r,"Enter your email","E-mail",1,B.kG,new A.a7Q()),A.RY(r.x,"Enter your message text","Your message",3,B.kG,new A.a7R()),A.bu(B.O,A.dq(A.b([A.arg(B.Ap),A.ahL(A.bJ("Add your file",q,q,q,A.aY(q,q,B.l,q,q,q,q,q,q,q,q,16,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.a2,q),new A.a7S(),q)],s),B.x,B.K,B.t),q,q,q,q,B.zZ,q,q),A.ar9(q,new A.a7T(r,b),!0,q,q,q,q,new A.a7U(r),t.y),new A.fc(B.vs,q,q,A.ahL(B.M4,new A.a7V(r,b),q),q)],s),B.x,B.K,B.t)
 return A.da(A.b([B.Hy,A.bu(q,new A.uE(l,B.eU,r.d),q,q,new A.er(B.dI,q,q,o,B.C4,q,B.aT),q,q,new A.ah(20,20,20,20),p)],s),B.bC,B.eh,B.t)}}
 A.a7O.prototype={
 $1(a){var s
@@ -68161,10 +68161,10 @@ B.A4=new A.oG(0,"noOpinion")
 B.A5=new A.oG(1,"enabled")
 B.fj=new A.oG(2,"disabled")
 B.fl=new A.DX(0,"tight")
-B.L4=new A.q(!0,B.k,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.L4=new A.q(!0,B.k,null,null,null,null,11,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a2=new A.iz(0,"left")
-B.M3=new A.la("I read and agree to the terms of personal data processing",null,B.L4,B.a2,null,null,null,null,null)
-B.A6=new A.ut(1,B.fl,B.M3,null)
+B.M5=new A.la('I have read the "Privacy Policy" and hereby agree to the terms of processing of my personal data',null,B.L4,B.a2,null,null,null,null,null)
+B.A6=new A.ut(1,B.fl,B.M5,null)
 B.A7=new A.uu(null,null,null,null,null,null,null,null,null)
 B.fk=new A.lY(0,"none")
 B.A8=new A.lY(1,"low")
@@ -69588,9 +69588,9 @@ B.HE=new A.hv(3,"hide")
 B.OY=new A.hv(4,"remove")
 B.kB=new A.hv(5,"timeout")
 B.HF=new A.xi(null,null,null,null,null,null,null)
-B.M4=new A.la("Message successfully sending",null,null,null,null,null,null,null,null)
+B.M3=new A.la("Message successfully sending",null,null,null,null,null,null,null,null)
 B.zO=new A.aJ(4e6)
-B.HG=new A.n7(B.M4,null,null,null,null,null,null,null,null,B.zO,null,null,B.m7,B.af,null)
+B.HG=new A.n7(B.M3,null,null,null,null,null,null,null,null,B.zO,null,null,B.m7,B.af,null)
 B.HH=new A.qq(0,"criticallyDamped")
 B.HI=new A.qq(1,"underDamped")
 B.HJ=new A.qq(2,"overDamped")
@@ -69899,7 +69899,7 @@ B.JC=new A.q(!0,B.k,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.M2=new A.dG(B.J2,B.KK,B.KX,B.LD,B.Kj,B.Jp,B.KR,B.Km,B.Ku,B.Ll,B.Jz,B.LI,B.Ke,B.Lc,B.JC)
 B.uY=new A.xH(1,"longestLine")
 B.L5=new A.q(!0,B.k,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.M5=new A.la("SEND",null,B.L5,null,null,null,null,null,null)
+B.M4=new A.la("SEND",null,B.L5,null,null,null,null,null,null)
 B.OZ=new A.It(0,"system")
 B.M6=new A.xJ(0)
 B.M7=new A.xJ(0.5)
